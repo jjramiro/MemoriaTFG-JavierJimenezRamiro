@@ -1,0 +1,27 @@
+\begin{thebibliography}{1}
+
+\bibitem{website:GitHub}
+Github.
+\newblock \\https://docs.github.com/es.
+
+\bibitem{website:libreriahtml}
+Html python.
+\newblock \\https://docs.python.org/3/library/html.html.
+
+\bibitem{website:JSON}
+Json.
+\newblock \\https://abrirarchivos.info/extension/json.
+
+\bibitem{website:Python}
+Python.
+\newblock \\https://docs.python.org.
+
+\bibitem{website:StackOverflow}
+Stack overflow.
+\newblock \\https://stackoverflow.com/documentation.
+
+\bibitem{website:Urllib}
+Urllib.request.
+\newblock \\https://docs.python.org/3/library/urllib.request.html.
+
+\end{thebibliography}

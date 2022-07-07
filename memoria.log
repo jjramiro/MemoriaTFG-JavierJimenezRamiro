@@ -1,0 +1,662 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.9)  7 JUL 2022 13:52
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./memoria.tex
+(memoria.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-24>
+(C:\Users\jjime\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
+Document Class: book 2021/10/04 v1.4n Standard LaTeX document class
+(C:\Users\jjime\AppData\Local\Programs\MiKTeX\tex/latex/base\bk12.clo
+File: bk12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\jjime\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\jjime\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(C:\Users\jjime\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\jjime\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count194
+\Gm@cntv=\count195
+\c@Gm@tempcnt=\count196
+\Gm@bindingoffset=\dimen139
+\Gm@wd@mp=\dimen140
+\Gm@odd@mp=\dimen141
+\Gm@even@mp=\dimen142
+\Gm@layoutwidth=\dimen143
+\Gm@layoutheight=\dimen144
+\Gm@layouthoffset=\dimen145
+\Gm@layoutvoffset=\dimen146
+\Gm@dimlist=\toks17
+
+(C:\Users\jjime\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\jjime\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\times.sty
+Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
+)
+(C:\Users\jjime\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks18
+\inpenc@posthook=\toks19
+)
+(C:\Users\jjime\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2022/02/26 3.73 The Babel package
+\babel@savecnt=\count197
+\U@D=\dimen147
+\l@unhyphenated=\language79
+
+(C:\Users\jjime\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count198
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\jjime\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\jjime\AppData\Local\Programs\MiKTeX\tex/latex/babel-spanish\spanish.l
+df
+Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
+\es@quottoks=\toks20
+\es@quotdepth=\count199
+Package babel Info: Making " an active character on input line 570.
+Package babel Info: Making . an active character on input line 675.
+Package babel Info: Making < an active character on input line 722.
+Package babel Info: Making > an active character on input line 722.
+)) (C:\Users\jjime\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(C:\Users\jjime\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\jjime\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\jjime\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\jjime\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\jjime\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen148
+\Gin@req@width=\dimen149
+) (C:\Users\jjime\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count266
+\float@exts=\toks21
+\float@box=\box50
+\@float@everytoks=\toks22
+\@floatcapt=\box51
+)
+(C:\Users\jjime\AppData\Local\Programs\MiKTeX\tex/latex/tocbibind\tocbibind.sty
+Package: tocbibind 2010/10/13 v1.5k extra ToC listings
+Package tocbibind Info: The document has chapter divisions on input line 50.
+
+Package tocbibind Note: Using chapter style headings, unless overridden.
+
+) (C:\Users\jjime\AppData\Local\Programs\MiKTeX\tex/latex/base\latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+)
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 3
+9.
+
+(C:\Users\jjime\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+(C:\Users\jjime\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count267
+\l__pdf_internal_box=\box52
+) (memoria.aux
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+
+
+LaTeX Warning: Label `sec:Obtención de ficheros en las diferentes opciones' mu
+ltiply defined.
+
+)
+\openout1 = `memoria.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
+* v-part:(T,H,B)=(85.35826pt, 674.33032pt, 85.35826pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=674.33032pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-18.78552pt
+* \headheight=12.0pt
+* \headsep=19.8738pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=88.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Info: Redefining \. on input line 39.
+LaTeX Info: Redefining \% on input line 39.
+
+(C:\Users\jjime\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count268
+\scratchdimen=\dimen150
+\scratchbox=\box53
+\nofMPsegments=\count269
+\nofMParguments=\count270
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count271
+\MPscratchDim=\dimen151
+\MPnumerator=\count272
+\makeMPintoPDFobject=\count273
+\everyMPtoPDFconversion=\toks24
+)
+(C:\Users\jjime\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\jjime\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+<img/URJ_logo_Color_POS.png, id=1, 359.4228pt x 138.7584pt>
+File: img/URJ_logo_Color_POS.png Graphic file (type png)
+<use img/URJ_logo_Color_POS.png>
+Package pdftex.def Info: img/URJ_logo_Color_POS.png  used on input line 49.
+(pdftex.def)             Requested size: 287.53862pt x 111.00687pt.
+ [1
+
+
+{C:/Users/jjime/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./img/URJ_lo
+go_Color_POS.png>] [2]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 106.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 106.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 106.
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 10
+6.
+
+(C:\Users\jjime\AppData\Local\Programs\MiKTeX\tex/latex/base\ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+) [1
+
+
+]
+[2
+
+] [1] [2
+
+] [3]
+LaTeX Info: Redefining \. on input line 161.
+LaTeX Info: Redefining \% on input line 161.
+ [4] [5
+
+]
+LaTeX Info: Redefining \. on input line 174.
+LaTeX Info: Redefining \% on input line 174.
+ [6
+
+] [7]
+LaTeX Info: Redefining \. on input line 195.
+LaTeX Info: Redefining \% on input line 195.
+ [8
+
+] (memoria.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [9])
+\tf@toc=\write3
+\openout3 = `memoria.toc'.
+
+LaTeX Info: Redefining \. on input line 197.
+LaTeX Info: Redefining \% on input line 197.
+ [10] (memoria.lof
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+
+[11
+
+
+])
+\tf@lof=\write4
+\openout4 = `memoria.lof'.
+
+LaTeX Info: Redefining \. on input line 211.
+LaTeX Info: Redefining \% on input line 211.
+ [12]
+Cap\'{\i }tulo 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 220.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 220.
+[1
+
+
+]
+LaTeX Info: Redefining \. on input line 262.
+LaTeX Info: Redefining \% on input line 262.
+ [2]
+LaTeX Info: Redefining \. on input line 262.
+LaTeX Info: Redefining \% on input line 262.
+ [3]
+LaTeX Info: Redefining \. on input line 262.
+LaTeX Info: Redefining \% on input line 262.
+ [4
+
+]
+Cap\'{\i }tulo 2.
+[5
+
+]
+LaTeX Info: Redefining \. on input line 303.
+LaTeX Info: Redefining \% on input line 303.
+ [6]
+LaTeX Info: Redefining \. on input line 313.
+LaTeX Info: Redefining \% on input line 313.
+ [7]
+LaTeX Info: Redefining \. on input line 313.
+LaTeX Info: Redefining \% on input line 313.
+ [8
+
+]
+Cap\'{\i }tulo 3.
+[9
+
+]
+LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 3
+50.
+ (C:\Users\jjime\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+LaTeX Info: Redefining \. on input line 365.
+LaTeX Info: Redefining \% on input line 365.
+
+[10]
+LaTeX Info: Redefining \. on input line 380.
+LaTeX Info: Redefining \% on input line 380.
+ [11]
+LaTeX Info: Redefining \. on input line 400.
+LaTeX Info: Redefining \% on input line 400.
+ [12]
+LaTeX Info: Redefining \. on input line 430.
+LaTeX Info: Redefining \% on input line 430.
+ [13]
+LaTeX Info: Redefining \. on input line 440.
+LaTeX Info: Redefining \% on input line 440.
+ [14]
+Cap\'{\i }tulo 4.
+[15
+
+
+]
+<img/figura_funcionamiento_1.png, id=109, 423.984pt x 355.3275pt>
+File: img/figura_funcionamiento_1.png Graphic file (type png)
+<use img/figura_funcionamiento_1.png>
+Package pdftex.def Info: img/figura_funcionamiento_1.png  used on input line 45
+8.
+(pdftex.def)             Requested size: 256.0748pt x 214.61324pt.
+Package pdftex.def Info: Option `bb' equivalent to `viewport' with the pdftex d
+river on input line 464.
+<img/figura_funcionamiento_2.png, id=110, 880.4895pt x 468.5505pt>
+File: img/figura_funcionamiento_2.png Graphic file (type png)
+<use img/figura_funcionamiento_2.png>
+Package pdftex.def Info: img/figura_funcionamiento_2.png  used on input line 46
+4.
+(pdftex.def)             Requested size: 341.43306pt x 256.06836pt.
+LaTeX Info: Redefining \. on input line 477.
+LaTeX Info: Redefining \% on input line 477.
+ [16 <./img/figura_funcionamiento_1.png>]
+LaTeX Info: Redefining \. on input line 489.
+LaTeX Info: Redefining \% on input line 489.
+ [17 <./img/figura_funcionamiento_2.png>]
+LaTeX Info: Redefining \. on input line 511.
+LaTeX Info: Redefining \% on input line 511.
+ [18]
+LaTeX Info: Redefining \. on input line 536.
+LaTeX Info: Redefining \% on input line 536.
+ [19]
+LaTeX Info: Redefining \. on input line 557.
+LaTeX Info: Redefining \% on input line 557.
+ [20]
+Overfull \hbox (27.15569pt too wide) in paragraph at lines 563--563
+[]\OT1/pcr/m/n/12 answer_ + n[]umero de respuesta + _file_ + n[]umero del fragm
+ento + .py[] 
+ []
+
+LaTeX Info: Redefining \. on input line 579.
+LaTeX Info: Redefining \% on input line 579.
+[21]
+LaTeX Info: Redefining \. on input line 600.
+LaTeX Info: Redefining \% on input line 600.
+ [22]
+LaTeX Info: Redefining \. on input line 620.
+LaTeX Info: Redefining \% on input line 620.
+ [23]
+LaTeX Info: Redefining \. on input line 620.
+LaTeX Info: Redefining \% on input line 620.
+ [24
+
+]
+Cap\'{\i }tulo 5.
+[25
+
+]
+Package pdftex.def Info: Option `bb' equivalent to `viewport' with the pdftex d
+river on input line 665.
+<img/stack1.png, id=144, 1153.911pt x 594.42075pt>
+File: img/stack1.png Graphic file (type png)
+<use img/stack1.png>
+Package pdftex.def Info: img/stack1.png  used on input line 665.
+(pdftex.def)             Requested size: 341.43306pt x 256.06836pt.
+Package pdftex.def Info: Option `bb' equivalent to `viewport' with the pdftex d
+river on input line 673.
+<img/stack2.png, id=145, 1150.2975pt x 591.4095pt>
+File: img/stack2.png Graphic file (type png)
+<use img/stack2.png>
+Package pdftex.def Info: img/stack2.png  used on input line 673.
+(pdftex.def)             Requested size: 341.43306pt x 256.06836pt.
+Package pdftex.def Info: Option `bb' equivalent to `viewport' with the pdftex d
+river on input line 682.
+<img/stack3.png, id=146, 1155.71774pt x 594.42075pt>
+File: img/stack3.png Graphic file (type png)
+<use img/stack3.png>
+Package pdftex.def Info: img/stack3.png  used on input line 682.
+(pdftex.def)             Requested size: 341.43306pt x 256.06836pt.
+<img/stack4.png, id=147, 249.3315pt x 97.5645pt>
+File: img/stack4.png Graphic file (type png)
+<use img/stack4.png>
+Package pdftex.def Info: img/stack4.png  used on input line 704.
+(pdftex.def)             Requested size: 227.62206pt x 89.06964pt.
+LaTeX Info: Redefining \. on input line 713.
+LaTeX Info: Redefining \% on input line 713.
+ [26]
+LaTeX Info: Redefining \. on input line 713.
+LaTeX Info: Redefining \% on input line 713.
+ [27 <./img/stack1.png> <./img/stack2.png>]
+LaTeX Info: Redefining \. on input line 713.
+LaTeX Info: Redefining \% on input line 713.
+ [28 <./img/stack3.png> <./img/stack4.png>]
+Package pdftex.def Info: Option `bb' equivalent to `viewport' with the pdftex d
+river on input line 722.
+<img/git1.png, id=162, 1142.46825pt x 596.2275pt>
+File: img/git1.png Graphic file (type png)
+<use img/git1.png>
+Package pdftex.def Info: img/git1.png  used on input line 722.
+(pdftex.def)             Requested size: 341.43306pt x 256.06836pt.
+Package pdftex.def Info: Option `bb' equivalent to `viewport' with the pdftex d
+river on input line 730.
+<img/git2.png, id=163, 1152.7065pt x 590.205pt>
+File: img/git2.png Graphic file (type png)
+<use img/git2.png>
+Package pdftex.def Info: img/git2.png  used on input line 730.
+(pdftex.def)             Requested size: 341.43306pt x 256.06836pt.
+LaTeX Info: Redefining \. on input line 738.
+LaTeX Info: Redefining \% on input line 738.
+ [29 <./img/git1.png>]
+Package pdftex.def Info: Option `bb' equivalent to `viewport' with the pdftex d
+river on input line 740.
+<img/git3.png, id=168, 1153.911pt x 590.80725pt>
+File: img/git3.png Graphic file (type png)
+<use img/git3.png>
+Package pdftex.def Info: img/git3.png  used on input line 740.
+(pdftex.def)             Requested size: 341.43306pt x 256.06836pt.
+Package pdftex.def Info: Option `bb' equivalent to `viewport' with the pdftex d
+river on input line 748.
+<img/git4.png, id=169, 1153.911pt x 593.21625pt>
+File: img/git4.png Graphic file (type png)
+<use img/git4.png>
+Package pdftex.def Info: img/git4.png  used on input line 748.
+(pdftex.def)             Requested size: 341.43306pt x 256.06836pt.
+LaTeX Info: Redefining \. on input line 772.
+LaTeX Info: Redefining \% on input line 772.
+ [30 <./img/git2.png>]
+LaTeX Info: Redefining \. on input line 772.
+LaTeX Info: Redefining \% on input line 772.
+ [31 <./img/git3.png> <./img/git4.png>]
+LaTeX Info: Redefining \. on input line 772.
+LaTeX Info: Redefining \% on input line 772.
+ [32
+
+]
+Cap\'{\i }tulo 6.
+<img/stack5.png, id=182, 440.24475pt x 485.4135pt>
+File: img/stack5.png Graphic file (type png)
+<use img/stack5.png>
+Package pdftex.def Info: img/stack5.png  used on input line 789.
+(pdftex.def)             Requested size: 455.24411pt x 501.9739pt.
+[33
+
+]
+<img/stack6.png, id=187, 434.8245pt x 286.06876pt>
+File: img/stack6.png Graphic file (type png)
+<use img/stack6.png>
+Package pdftex.def Info: img/stack6.png  used on input line 796.
+(pdftex.def)             Requested size: 455.24411pt x 299.50804pt.
+<img/stack7.png, id=188, 445.06274pt x 473.97075pt>
+File: img/stack7.png Graphic file (type png)
+<use img/stack7.png>
+Package pdftex.def Info: img/stack7.png  used on input line 803.
+(pdftex.def)             Requested size: 455.24411pt x 484.83958pt.
+<img/stack8.png, id=189, 430.60875pt x 289.68225pt>
+File: img/stack8.png Graphic file (type png)
+<use img/stack8.png>
+Package pdftex.def Info: img/stack8.png  used on input line 810.
+(pdftex.def)             Requested size: 455.24411pt x 306.26166pt.
+<img/stack9.png, id=190, 445.06274pt x 496.254pt>
+File: img/stack9.png Graphic file (type png)
+<use img/stack9.png>
+Package pdftex.def Info: img/stack9.png  used on input line 817.
+(pdftex.def)             Requested size: 455.24411pt x 507.6338pt.
+<img/stack10.png, id=191, 450.483pt x 286.671pt>
+File: img/stack10.png Graphic file (type png)
+<use img/stack10.png>
+Package pdftex.def Info: img/stack10.png  used on input line 824.
+(pdftex.def)             Requested size: 455.24411pt x 289.70601pt.
+<img/stack11.png, id=192, 472.164pt x 477.58424pt>
+File: img/stack11.png Graphic file (type png)
+<use img/stack11.png>
+Package pdftex.def Info: img/stack11.png  used on input line 831.
+(pdftex.def)             Requested size: 455.24411pt x 460.47238pt.
+<img/stack12.png, id=193, 434.8245pt x 304.7385pt>
+File: img/stack12.png Graphic file (type png)
+<use img/stack12.png>
+Package pdftex.def Info: img/stack12.png  used on input line 838.
+(pdftex.def)             Requested size: 455.24411pt x 319.05487pt.
+<img/stack13.png, id=194, 459.51675pt x 473.3685pt>
+File: img/stack13.png Graphic file (type png)
+<use img/stack13.png>
+Package pdftex.def Info: img/stack13.png  used on input line 845.
+(pdftex.def)             Requested size: 455.24411pt x 468.98297pt.
+<img/stack14.png, id=195, 451.08525pt x 327.624pt>
+File: img/stack14.png Graphic file (type png)
+<use img/stack14.png>
+Package pdftex.def Info: img/stack14.png  used on input line 852.
+(pdftex.def)             Requested size: 455.24411pt x 330.65765pt.
+<img/stack15.png, id=196, 435.42674pt x 77.69025pt>
+File: img/stack15.png Graphic file (type png)
+<use img/stack15.png>
+Package pdftex.def Info: img/stack15.png  used on input line 859.
+(pdftex.def)             Requested size: 455.24411pt x 81.2286pt.
+<img/git5.png, id=197, 317.38576pt x 469.15276pt>
+File: img/git5.png Graphic file (type png)
+<use img/git5.png>
+Package pdftex.def Info: img/git5.png  used on input line 870.
+(pdftex.def)             Requested size: 318.66948pt x 471.06296pt.
+<img/git6.png, id=198, 285.4665pt x 72.87225pt>
+File: img/git6.png Graphic file (type png)
+<use img/git6.png>
+Package pdftex.def Info: img/git6.png  used on input line 877.
+(pdftex.def)             Requested size: 318.66948pt x 81.35616pt.
+<img/git7.png, id=199, 304.7385pt x 486.01575pt>
+File: img/git7.png Graphic file (type png)
+<use img/git7.png>
+Package pdftex.def Info: img/git7.png  used on input line 884.
+(pdftex.def)             Requested size: 318.66948pt x 508.26253pt.
+<img/git8.png, id=200, 289.68225pt x 274.02374pt>
+File: img/git8.png Graphic file (type png)
+<use img/git8.png>
+Package pdftex.def Info: img/git8.png  used on input line 891.
+(pdftex.def)             Requested size: 318.66948pt x 301.46886pt.
+<img/git9.png, id=201, 287.8755pt x 486.618pt>
+File: img/git9.png Graphic file (type png)
+<use img/git9.png>
+Package pdftex.def Info: img/git9.png  used on input line 898.
+(pdftex.def)             Requested size: 318.66948pt x 538.72673pt.
+<img/git10.png, id=202, 299.9205pt x 277.63725pt>
+File: img/git10.png Graphic file (type png)
+<use img/git10.png>
+Package pdftex.def Info: img/git10.png  used on input line 905.
+(pdftex.def)             Requested size: 318.66948pt x 295.00578pt.
+<img/git11.png, id=203, 288.47775pt x 366.77025pt>
+File: img/git11.png Graphic file (type png)
+<use img/git11.png>
+Package pdftex.def Info: img/git11.png  used on input line 912.
+(pdftex.def)             Requested size: 318.66948pt x 405.16663pt.
+LaTeX Info: Redefining \. on input line 925.
+LaTeX Info: Redefining \% on input line 925.
+ [34] [35 <./img/stack5.png>]
+LaTeX Info: Redefining \. on input line 925.
+LaTeX Info: Redefining \% on input line 925.
+ [36 <./img/stack6.png>] [37 <./img/stack7.png>]
+LaTeX Info: Redefining \. on input line 925.
+LaTeX Info: Redefining \% on input line 925.
+ [38 <./img/stack8.png>] [39 <./img/stack9.png>]
+LaTeX Info: Redefining \. on input line 925.
+LaTeX Info: Redefining \% on input line 925.
+ [40 <./img/stack10.png>]
+[41 <./img/stack11.png>]
+LaTeX Info: Redefining \. on input line 925.
+LaTeX Info: Redefining \% on input line 925.
+ [42 <./img/stack12.png>] [43 <./img/stack13.png>]
+LaTeX Info: Redefining \. on input line 925.
+LaTeX Info: Redefining \% on input line 925.
+
+[44 <./img/stack14.png> <./img/stack15.png>] [45 <./img/git5.png> <./img/git6.p
+ng>]
+LaTeX Info: Redefining \. on input line 925.
+LaTeX Info: Redefining \% on input line 925.
+ [46 <./img/git7.png>] [47 <./img/git8.png>]
+LaTeX Info: Redefining \. on input line 925.
+LaTeX Info: Redefining \% on input line 925.
+ [48 <./img/git9.png>] [49 <./img/git10.png>]
+LaTeX Info: Redefining \. on input line 925.
+LaTeX Info: Redefining \% on input line 925.
+ [50 <./img/git11.png>]
+Cap\'{\i }tulo 7.
+[51
+
+
+]
+LaTeX Info: Redefining \. on input line 964.
+LaTeX Info: Redefining \% on input line 964.
+ [52]
+LaTeX Info: Redefining \. on input line 999.
+LaTeX Info: Redefining \% on input line 999.
+ [53]
+LaTeX Info: Redefining \. on input line 999.
+LaTeX Info: Redefining \% on input line 999.
+ [54
+
+] (memoria.bbl) [55
+
+] (memoria.aux
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 4082 strings out of 478582
+ 68241 string characters out of 2844345
+ 374183 words of memory out of 3000000
+ 22182 multiletter control sequences out of 15000+600000
+ 496719 words of font info for 76 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,8n,62p,1171b,551s stack positions out of 10000i,1000n,20000p,200000b,80000s
+{C:/Users/jjime/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:
+/Users/jjime/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/latxfont
+/lasy10.pfb><C:/Users/jjime/AppData/Local/Programs/MiKTeX/fonts/type1/urw/couri
+er/ucrr8a.pfb><C:/Users/jjime/AppData/Local/Programs/MiKTeX/fonts/type1/urw/tim
+es/utmb8a.pfb><C:/Users/jjime/AppData/Local/Programs/MiKTeX/fonts/type1/urw/tim
+es/utmr8a.pfb><C:/Users/jjime/AppData/Local/Programs/MiKTeX/fonts/type1/urw/tim
+es/utmr8a.pfb><C:/Users/jjime/AppData/Local/Programs/MiKTeX/fonts/type1/urw/tim
+es/utmri8a.pfb>
+Output written on memoria.pdf (71 pages, 1770819 bytes).
+PDF statistics:
+ 320 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 146 words of extra memory for PDF output out of 10000 (max. 10000000)
+
