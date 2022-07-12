@@ -2,35 +2,52 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces clases ast 1.}}{15}{}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces clases ast 2.}}{15}{}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Ejemplo de ejecución.}}{17}{}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Resultado de análisis.}}{17}{}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Página web principal.}}{18}{}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Página web del repositorio.}}{18}{}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Página web del fichero .py.}}{19}{}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Esquema de funcionamiento principal.}}{16}{}%
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Esquema de funcionamiento mejorado.}}{17}{}%
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Esquema de funcionamiento principal.}}{22}{}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Esquema de funcionamiento mejorado.}}{23}{}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Ejemplo de ejecución Pull Request.}}{29}{}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Resultado de análisis Pull Request.}}{30}{}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Página web principal.}}{30}{}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Página web del Pull Request.}}{31}{}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Página web del fichero .py.}}{31}{}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Ejemplo de ejecución Stack Overflow.}}{31}{}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Resultado de análisis Stack Overflow.}}{32}{}%
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Página web principal.}}{32}{}%
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Página web de resultado Stack Overflow.}}{33}{}%
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Página web del fichero .py.}}{33}{}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces Pagina principal de Stack Overflow}}{27}{}%
-\contentsline {figure}{\numberline {5.2}{\ignorespaces Pagina de preguntas de Stack Overflow}}{27}{}%
-\contentsline {figure}{\numberline {5.3}{\ignorespaces Pregunta de ejemplo de Stack Overflow}}{28}{}%
-\contentsline {figure}{\numberline {5.4}{\ignorespaces Resultado de análisis de Stack Overflow}}{28}{}%
-\contentsline {figure}{\numberline {5.5}{\ignorespaces Página principal de GitHub}}{29}{}%
-\contentsline {figure}{\numberline {5.6}{\ignorespaces Página 'topic' de GitHub}}{30}{}%
-\contentsline {figure}{\numberline {5.7}{\ignorespaces Página 'topic' de Python en GitHub}}{31}{}%
-\contentsline {figure}{\numberline {5.8}{\ignorespaces Página 'pull request' de un repositorio en GitHub}}{31}{}%
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Pagina principal de Stack Overflow}}{37}{}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Pagina de preguntas de Stack Overflow}}{37}{}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Pregunta de ejemplo de Stack Overflow}}{38}{}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Resultado de análisis de Stack Overflow}}{38}{}%
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Página principal de GitHub}}{39}{}%
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Página `topic' de GitHub}}{40}{}%
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Página `topic' de Python en GitHub}}{41}{}%
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Página `pull request' de un repositorio en GitHub}}{41}{}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {6.1}{\ignorespaces Resultados Stack Overflow (1)}}{35}{}%
-\contentsline {figure}{\numberline {6.2}{\ignorespaces Resultados Stack Overflow (2)}}{36}{}%
-\contentsline {figure}{\numberline {6.3}{\ignorespaces Resultados Stack Overflow (3)}}{37}{}%
-\contentsline {figure}{\numberline {6.4}{\ignorespaces Resultados Stack Overflow (4)}}{38}{}%
-\contentsline {figure}{\numberline {6.5}{\ignorespaces Resultados Stack Overflow (5)}}{39}{}%
-\contentsline {figure}{\numberline {6.6}{\ignorespaces Resultados Stack Overflow (6)}}{40}{}%
-\contentsline {figure}{\numberline {6.7}{\ignorespaces Resultados Stack Overflow (7)}}{41}{}%
-\contentsline {figure}{\numberline {6.8}{\ignorespaces Resultados Stack Overflow (8)}}{42}{}%
-\contentsline {figure}{\numberline {6.9}{\ignorespaces Resultados Stack Overflow (9)}}{43}{}%
-\contentsline {figure}{\numberline {6.10}{\ignorespaces Resultados Stack Overflow (10)}}{44}{}%
-\contentsline {figure}{\numberline {6.11}{\ignorespaces Resultados Stack Overflow (11)}}{44}{}%
-\contentsline {figure}{\numberline {6.12}{\ignorespaces Resultados Pull Request (1)}}{45}{}%
-\contentsline {figure}{\numberline {6.13}{\ignorespaces Resultados Pull Request (2)}}{45}{}%
-\contentsline {figure}{\numberline {6.14}{\ignorespaces Resultados Pull Request (3)}}{46}{}%
-\contentsline {figure}{\numberline {6.15}{\ignorespaces Resultados Pull Request (4)}}{47}{}%
-\contentsline {figure}{\numberline {6.16}{\ignorespaces Resultados Pull Request (5)}}{48}{}%
-\contentsline {figure}{\numberline {6.17}{\ignorespaces Resultados Pull Request (6)}}{49}{}%
-\contentsline {figure}{\numberline {6.18}{\ignorespaces Resultados Pull Request (7)}}{50}{}%
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Resultados Stack Overflow (1)}}{45}{}%
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Resultados Stack Overflow (2)}}{46}{}%
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Resultados Stack Overflow (3)}}{47}{}%
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Resultados Stack Overflow (4)}}{48}{}%
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Resultados Stack Overflow (5)}}{49}{}%
+\contentsline {figure}{\numberline {6.6}{\ignorespaces Resultados Stack Overflow (6)}}{50}{}%
+\contentsline {figure}{\numberline {6.7}{\ignorespaces Resultados Stack Overflow (7)}}{51}{}%
+\contentsline {figure}{\numberline {6.8}{\ignorespaces Resultados Stack Overflow (8)}}{52}{}%
+\contentsline {figure}{\numberline {6.9}{\ignorespaces Resultados Stack Overflow (9)}}{53}{}%
+\contentsline {figure}{\numberline {6.10}{\ignorespaces Resultados Stack Overflow (10)}}{54}{}%
+\contentsline {figure}{\numberline {6.11}{\ignorespaces Resultados Stack Overflow (11)}}{54}{}%
+\contentsline {figure}{\numberline {6.12}{\ignorespaces Resultados Pull Request (1)}}{55}{}%
+\contentsline {figure}{\numberline {6.13}{\ignorespaces Resultados Pull Request (2)}}{55}{}%
+\contentsline {figure}{\numberline {6.14}{\ignorespaces Resultados Pull Request (3)}}{56}{}%
+\contentsline {figure}{\numberline {6.15}{\ignorespaces Resultados Pull Request (4)}}{57}{}%
+\contentsline {figure}{\numberline {6.16}{\ignorespaces Resultados Pull Request (5)}}{58}{}%
+\contentsline {figure}{\numberline {6.17}{\ignorespaces Resultados Pull Request (6)}}{59}{}%
+\contentsline {figure}{\numberline {6.18}{\ignorespaces Resultados Pull Request (7)}}{60}{}%
 \addvspace {10\p@ }

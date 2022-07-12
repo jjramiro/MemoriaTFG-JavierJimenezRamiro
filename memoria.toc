@@ -17,23 +17,25 @@
 \contentsline {subsection}{\numberline {3.3.6}Wiki}{12}{}%
 \contentsline {section}{\numberline {3.4}Stack Overflow}{12}{}%
 \contentsline {section}{\numberline {3.5}Proyecto de programación del CEFRL}{13}{}%
-\contentsline {chapter}{\numberline {4}Diseño e implementación}{15}{}%
-\contentsline {section}{\numberline {4.1}Arquitectura general}{15}{}%
-\contentsline {section}{\numberline {4.2}Obtención de ficheros en las diferentes opciones}{16}{}%
-\contentsline {section}{\numberline {4.3}Lectura y extracción de los fragmentos de interés}{18}{}%
-\contentsline {subsection}{\numberline {4.3.1}Lectura y extracción de Stack Overflow}{19}{}%
-\contentsline {subsection}{\numberline {4.3.2}Lectura y extracción de Pull requests}{19}{}%
-\contentsline {section}{\numberline {4.4}limpieza y análisis de los fragmentos obtenidos}{20}{}%
-\contentsline {subsection}{\numberline {4.4.1}limpieza de los fragmentos Stack Overflow}{20}{}%
-\contentsline {subsection}{\numberline {4.4.2}limpieza de los fragmentos Pull-Requests}{21}{}%
-\contentsline {subsection}{\numberline {4.4.3}Análisis y resultados}{23}{}%
-\contentsline {chapter}{\numberline {5}Manual de Usuario}{25}{}%
-\contentsline {section}{\numberline {5.1}Manual de análisis Stack Overflow}{26}{}%
-\contentsline {section}{\numberline {5.2}Manual de análisis Pull Request}{29}{}%
-\contentsline {chapter}{\numberline {6}Experimentos y validación}{33}{}%
-\contentsline {chapter}{\numberline {7}Conclusiones}{51}{}%
-\contentsline {section}{\numberline {7.1}Consecución de objetivos}{51}{}%
-\contentsline {section}{\numberline {7.2}Aplicación de lo aprendido}{52}{}%
-\contentsline {section}{\numberline {7.3}Lecciones aprendidas}{52}{}%
-\contentsline {section}{\numberline {7.4}Trabajos futuros}{53}{}%
-\contentsline {chapter}{Bibliograf\'{\i }a}{55}{}%
+\contentsline {section}{\numberline {3.6}Pycefr}{14}{}%
+\contentsline {subsection}{\numberline {3.6.1}Ejemplo de uso}{16}{}%
+\contentsline {chapter}{\numberline {4}Diseño e implementación}{21}{}%
+\contentsline {section}{\numberline {4.1}Arquitectura general}{21}{}%
+\contentsline {section}{\numberline {4.2}Obtención de ficheros en las diferentes opciones}{22}{}%
+\contentsline {section}{\numberline {4.3}Lectura y extracción de los fragmentos de interés}{24}{}%
+\contentsline {subsection}{\numberline {4.3.1}Lectura y extracción de Stack Overflow}{25}{}%
+\contentsline {subsection}{\numberline {4.3.2}Lectura y extracción de Pull requests}{25}{}%
+\contentsline {section}{\numberline {4.4}limpieza y análisis de los fragmentos obtenidos}{26}{}%
+\contentsline {subsection}{\numberline {4.4.1}limpieza de los fragmentos Stack Overflow}{26}{}%
+\contentsline {subsection}{\numberline {4.4.2}limpieza de los fragmentos Pull-Requests}{27}{}%
+\contentsline {subsection}{\numberline {4.4.3}Análisis y resultados}{29}{}%
+\contentsline {chapter}{\numberline {5}Manual de Usuario}{35}{}%
+\contentsline {section}{\numberline {5.1}Manual de análisis Stack Overflow}{36}{}%
+\contentsline {section}{\numberline {5.2}Manual de análisis Pull Request}{39}{}%
+\contentsline {chapter}{\numberline {6}Experimentos y validación}{43}{}%
+\contentsline {chapter}{\numberline {7}Conclusiones}{61}{}%
+\contentsline {section}{\numberline {7.1}Consecución de objetivos}{61}{}%
+\contentsline {section}{\numberline {7.2}Aplicación de lo aprendido}{62}{}%
+\contentsline {section}{\numberline {7.3}Lecciones aprendidas}{62}{}%
+\contentsline {section}{\numberline {7.4}Trabajos futuros}{63}{}%
+\contentsline {chapter}{Bibliograf\'{\i }a}{65}{}%
